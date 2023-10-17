@@ -7,10 +7,14 @@
 <h3>3. Exit
 	<h4> Allows the user to exit.
 <h2> The LOGIN portal gives the user 4 options:</br></h2>
-<h3>1. Make a reservation</br>
-2. Cancel a reservation</br>
-3. View all reservations</br>
-4. Logout </h3></br>
+<h3>1. Make a reservation
+	<h4> Allows the user to make a reservation by entering the required details
+<h3>2. Cancel a reservation
+	<h4> Allows the user to cancel a reservation.
+<h3>3. View all reservations
+	<h4> Allows the user to view all reservations.
+<h3>4. Logout
+	<h4> Allows the user to logout.
 
 
 

@@ -5,8 +5,8 @@
 <h3>2. Login </h3>
 <h4> This allows user to login and make a booking</h4></br>
 <h3>3. Exit</h3>
-<h4> Allows the user to exit the program</h4></br>
-<h3> LOGIN </h3></h2></br>
+<h4> Allows the user to exit the program</h4></h2></br>
+<h3> LOGIN </h3></br>
 <h5> The login portal allows the user to:</br></h5>
 <h5>1. Make a reservation </h5>
 <h5>2. Cancel a reservation</h5>

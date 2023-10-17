@@ -17,11 +17,7 @@
 		<h4> 5. Logout: Takes the user back to Homepage.
 <h2> User Module
 	<h3> The User Module offers 4 options:
-		<h4> 1. View any book : Allows the user to view any book
-			<h5> The View Book options gives the user 3 choices:
-				<h5> 1. To View a specific book
-				<h5> 2. To View all the books
-				<h5> 3. To go back to the main page
+		<h4> 1. View any book : Allows the user to view any book or view all books
 		<h4> 2. Issue a book :  Allows the user to issue a book
 		<h4> 3. Return a book : Allows the user to return a book
 		<h4> 4. Logout : Allows the user to logout
